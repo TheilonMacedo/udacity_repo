@@ -1,6 +1,6 @@
 # my_code_projects
-This is a repository of my nanodegree at Udacity study notes.  
-I'll list the git commands which I am familiar with:
+This is a repository of study notes from the Udacity ML DevOps Engineer course which i'm currently enroled.
+Here I'll list the git commands which I am familiar with:
 - git init
 - git add
 - git commit
