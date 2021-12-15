@@ -1,4 +1,4 @@
-# my_code_projects
+# Study Notes from the ML DevOps Engineer course
 This is a repository of study notes from the Udacity ML DevOps Engineer course which i'm currently enroled.
 Here I'll list the git commands which I am familiar with:
 - git init
